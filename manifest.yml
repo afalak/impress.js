@@ -1,0 +1,6 @@
+---
+applications:
+- name: afalak-falcons-nest
+  memory: 16M
+  instances: 1
+  buildpack: https://github.com/afalak/staticfile-buildpack.git
