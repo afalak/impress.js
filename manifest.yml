@@ -3,4 +3,4 @@ applications:
 - name: afalak-falcons-nest
   memory: 64M
   instances: 1
-  buildpack: https://github.com/afalak/static-buildpack.git
+  buildpack: https://github.com/cloudfoundry/php-buildpack.git
