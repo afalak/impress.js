@@ -1,6 +1,0 @@
-{
-  "root": "./",
-  "encoding": "US-ASCII",
-  "clean_urls": true,
-  "error_page": "errors/error.html"
-}
